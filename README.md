@@ -93,7 +93,6 @@ GitHub Pages 通过 HTTPS 提供服务，原生全屏、指针锁定和 WebGL2 �
 详细来源、许可链接和资源清单见：
 
 - `THIRD-PARTY-NOTICES.md`
-- `DEPLOYMENT-REPORT.md`
 
 ## 发布目录
 
@@ -101,7 +100,6 @@ GitHub Pages 通过 HTTPS 提供服务，原生全屏、指针锁定和 WebGL2 �
 /
 ├─ index.html                 # 已验收的 SOLARIS v1.0.0 运行版本
 ├─ README.md                  # 本说明
-├─ DEPLOYMENT-REPORT.md       # 部署资源、路径、授权和验证记录
 └─ THIRD-PARTY-NOTICES.md     # 第三方资源与许可
 ```
 
