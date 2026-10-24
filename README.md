@@ -2,6 +2,10 @@
 
 SOLARIS 是一个以「从太阳系走向宇宙」为主线的交互式三维宇宙探索网站。当前发布版本为 **SOLARIS v1.0.0**，以单一 HTML 文件交付，可直接静态部署到 GitHub Pages。
 
+## 在线体验
+
+**https://jiajinwu306.github.io/solaris-universe/**
+
 ## 核心体验
 
 ### 太阳系与深空探索
